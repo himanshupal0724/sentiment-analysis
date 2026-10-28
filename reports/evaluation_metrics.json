@@ -1,0 +1,17 @@
+{
+    "test_samples": 2008,
+    "accuracy": 1.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "macro_f1": 1.0,
+    "weighted_f1": 1.0,
+    "best_parameters": {
+        "classifier__C": 10,
+        "tfidf__max_features": 3000,
+        "tfidf__ngram_range": [
+            1,
+            1
+        ]
+    },
+    "best_grouped_cv_macro_f1": 1.0
+}
